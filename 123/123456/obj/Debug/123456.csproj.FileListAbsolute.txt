@@ -1,0 +1,15 @@
+C:\Users\C616_3\Desktop\記帳本\123\123456\bin\Debug\123456.exe.config
+C:\Users\C616_3\Desktop\記帳本\123\123456\bin\Debug\123456.exe
+C:\Users\C616_3\Desktop\記帳本\123\123456\bin\Debug\123456.pdb
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456.csprojResolveAssemblyReference.cache
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\MainWindow.baml
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\price.baml
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\MainWindow.g.cs
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\price.g.cs
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\App.g.cs
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456_MarkupCompile.cache
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456.g.resources
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\_123456.Properties.Resources.resources
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456.csproj.GenerateResource.Cache
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456.exe
+C:\Users\C616_3\Desktop\記帳本\123\123456\obj\Debug\123456.pdb
